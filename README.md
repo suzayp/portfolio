@@ -1,5 +1,7 @@
 # Suzanne Pang
-<img src="https://github.com/suzayp/portfolio/blob/main/IMG_3484.jpg?raw=true" alt="My Portfolio" width="120" height="150">
+<img src="https://github.com/suzayp/portfolio/blob/main/IMG_3484.jpg?raw=true" alt="My Portfolio" width="160" height="200">
+
+*Masters in Business Analytics @ Duke* <br> *Product Growth \| Data Storyteller \| Making Ripples with Impact-Driven Solutions* 
 
 ## Hi, thanks for dropping by!
 
@@ -8,6 +10,8 @@ I am driven by the pursuit of work that pushes boundaries, empowers individuals,
 I am energized by various interests, including advocating for women's education equality, designing art and employing data visualization for impactful storytelling. Outside of work, I find fulfillment in training for my upcoming half-marathon, exploring the integration of diversity within workplace environments, following the NBA, and delving into thought-provoking reads on Goodreads.
 
 Whether it's deciphering insights from raw data, shaping brand strategy, or dissecting complex problems, I am inherently drawn to the art of storytelling. My skill set enables me to weave narratives that inform, inspire, and drive meaningful change.
+
+⭐ A Few Project Highlights:
 
 [Finance Project on Fund Optimization](https://medium.com/@suzanne.pang/navigating-investments-building-diverse-portfolios-with-a-visual-dashboard-tool-c245358f9066)
 
