@@ -1,7 +1,7 @@
 # Suzanne Pang
 <img src="https://github.com/suzayp/portfolio/blob/main/IMG_3484.jpg?raw=true" alt="My Portfolio" width="120" height="150">
 
-## Hi! Welcome to my portfolio 👋
+## Hi, thanks for dropping by!
 
 I am driven by the pursuit of work that pushes boundaries, empowers individuals, and generates significant positive impact. My approach is rooted in a deep curiosity for problem-solving through a human-centered perspective, coupled with a passion for uncovering transformative insights. I excel in bridging connections across diverse disciplines, from design to engineering, leveraging this ability to drive innovation and collaboration.
 
