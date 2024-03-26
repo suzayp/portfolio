@@ -1,8 +1,11 @@
+
+
+```
 # Suzanne's Portfolio
 
-Hi! Welcome to my portfolio where you can discover my interests and projects.
+Hi! Welcome to my portfolio 👋
 
-https://github.com/suzayp/portfolio/blob/main/IMG_3484.jpg?raw=true
+<img src="https://github.com/suzayp/portfolio/blob/main/IMG_3484.jpg?raw=true" alt="My Portfolio" width="120" height="150">
 
 I am driven by the pursuit of work that pushes boundaries, empowers individuals, and generates significant positive impact. My approach is rooted in a deep curiosity for problem-solving through a human-centered perspective, coupled with a passion for uncovering transformative insights. I excel in bridging connections across diverse disciplines, from design to engineering, leveraging this ability to drive innovation and collaboration.
 
@@ -10,8 +13,15 @@ I am energized by various interests, including advocating for women's education 
 
 Whether it's deciphering insights from raw data, shaping brand strategy, or dissecting complex problems, I am inherently drawn to the art of storytelling. My skill set enables me to weave narratives that inform, inspire, and drive meaningful change.
 
-Digital Portfolio: An Overview of My Projects & Accomplishments
+[Finance Project on Fund Optimization](https://medium.com/@suzanne.pang/navigating-investments-building-diverse-portfolios-with-a-visual-dashboard-tool-c245358f9066)
 
-Recent Hackathon Project: Building Educational Tool For Homeschooled Children 📚
+[AI Project on Transforming Books to Novels](https://devpost.com/software/book2comic)
+
+[Recent Hackathon Project: Building Educational Tool For Homeschooled Children 📚](https://devpost.com/software/hoohacks-project-x)
 
 I’m currently reading: Zero To One by Peter Thiel 
+
+Personal Goals for 2024: Run a Half Marathon, Learn a New Sport, Grow Food Blog to 5000+ Followers
+```
+
+
