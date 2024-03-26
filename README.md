@@ -1,11 +1,7 @@
-
-
-```
-# Suzanne's Portfolio
-
-Hi! Welcome to my portfolio 👋
-
+# Suzanne Pang
 <img src="https://github.com/suzayp/portfolio/blob/main/IMG_3484.jpg?raw=true" alt="My Portfolio" width="120" height="150">
+
+## Hi! Welcome to my portfolio 👋
 
 I am driven by the pursuit of work that pushes boundaries, empowers individuals, and generates significant positive impact. My approach is rooted in a deep curiosity for problem-solving through a human-centered perspective, coupled with a passion for uncovering transformative insights. I excel in bridging connections across diverse disciplines, from design to engineering, leveraging this ability to drive innovation and collaboration.
 
@@ -19,9 +15,7 @@ Whether it's deciphering insights from raw data, shaping brand strategy, or diss
 
 [Recent Hackathon Project: Building Educational Tool For Homeschooled Children 📚](https://devpost.com/software/hoohacks-project-x)
 
-I’m currently reading: Zero To One by Peter Thiel 
+I’m currently reading 💭 : Zero To One by Peter Thiel 
 
-Personal Goals for 2024: Run a Half Marathon, Learn a New Sport, Grow Food Blog to 5000+ Followers
-```
 
 
