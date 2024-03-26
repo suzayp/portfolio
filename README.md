@@ -17,7 +17,7 @@ Whether it's deciphering insights from raw data, shaping brand strategy, or diss
 
 [AI Project on Transforming Books to Novels](https://devpost.com/software/book2comic)
 
-[Recent Hackathon Project: Building Educational Tool For Homeschooled Children 📚](https://devpost.com/software/hoohacks-project-x)
+[Educational Tool For Homeschooled Children 📚](https://devpost.com/software/hoohacks-project-x)
 
 I’m currently reading 💭 : Zero To One by Peter Thiel 
 
