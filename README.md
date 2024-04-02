@@ -5,7 +5,7 @@
 
 ## Hi, thanks for dropping by!
 
-I am driven by the pursuit of work that pushes boundaries, empowers individuals, and generates significant positive impact. My approach is rooted in a deep curiosity for problem-solving through a human-centered perspective, coupled with a passion for uncovering transformative insights. I excel in bridging connections across diverse disciplines, from design to engineering, leveraging this ability to drive innovation and collaboration.
+I am driven by work that pushes boundaries, empowers individuals, and generates significant positive impact. My approach is rooted in a deep curiosity for problem-solving through a human-centered perspective, coupled with a passion for uncovering transformative insights. I excel in bridging connections across diverse disciplines, from design to engineering, leveraging this ability to drive innovation and collaboration.
 
 I have various interests which include advocating for women's education equality, designing art and employing data visualization for impactful storytelling. Outside of work, you can find me training for my upcoming half-marathon, finding the best coffee in town, and delving into thought-provoking reads on Goodreads (would love any book recommendations!)
 
