@@ -13,9 +13,9 @@ Whether it's deciphering insights from raw data, shaping brand strategy, or diss
 
 ⭐ A Few Project Highlights:
 
-[Finance Project on Fund Optimization](https://medium.com/@suzanne.pang/navigating-investments-building-diverse-portfolios-with-a-visual-dashboard-tool-c245358f9066)
+[Low-Risk Fund Portfolio Dashboard](https://medium.com/@suzanne.pang/navigating-investments-building-diverse-portfolios-with-a-visual-dashboard-tool-c245358f9066)
 
-[AI Project on Transforming Books to Novels](https://devpost.com/software/book2comic)
+[Revolutionizing Novels into Interactive Storybooks](https://devpost.com/software/book2comic)
 
 [Educational Tool For Homeschooled Children 📚](https://devpost.com/software/hoohacks-project-x)
 
